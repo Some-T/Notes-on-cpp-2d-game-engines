@@ -49,4 +49,6 @@ https://github.com/SFML/SFML/wiki/Tutorial%3A-Build-your-SFML-project-with-CMake
 
 ### LoveLib:
 
-Is the c++ version of Lua love 2d?
+Is the c++ version of Lua love 2d possibly:
+
+https://bitbucket.org/rude/love/src
