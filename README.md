@@ -8,8 +8,7 @@
 
 To use without downloading an installer:
 
-https://github.com/raysan5/raylib/tree/master/release 
-
+https://github.com/raysan5/raylib/releases
 
 raylib.dll includes all raylib modules except easings.h and physac.h there modules should be managed by user, include them in your project.
 
